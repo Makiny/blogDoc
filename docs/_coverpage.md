@@ -1,12 +1,5 @@
-![logo](_media/icon.svg)
+# 第谷站文档仓库
 
-# docsify
 
-> A magical documentation site generator.
-
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[进入博客](https://www.mtycho.com)
+[进入文档](https://docs.mtycho.com/#)
