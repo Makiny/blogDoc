@@ -2,5 +2,5 @@
 
 * [返回首页](/home)
 
-* [CentOS7](/linux/CentOS7)
+* [CentOS7](/linux/centos7)
 * [Nextcloud](/linux/nextcloud)
